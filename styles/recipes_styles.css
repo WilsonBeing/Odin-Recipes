@@ -10,6 +10,8 @@ h1{
     text-decoration: underline solid 5px rgb(224, 104, 0);
 }
 img{
+    width: 400px;
+    height: 400px;
     border-radius: 400px;
     margin: 15px;
 }
